@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Big bucket containing my thoughts, opinions, and work
+Small bucket containing my thoughts, opinions, and work
